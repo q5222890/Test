@@ -1,0 +1,145 @@
+    「彼前5：7」“你们要将一切的忧虑卸给神，因为祂顾念你们。”圣经在这里教导我们，要我们将一切忧虑卸给神，因为祂顾念我们。这里的“卸”意思就是要我们把忧虑交托给神。而“一切的忧虑”，就是指我们一生中全部的忧虑，都该卸给神。所以今天我们就要将一切的忧虑卸给神，因为祂顾念我们。这里的“顾念”意思就是关心，神会关心我们。今天我们生活在世界上，每个人都有这样、那样的忧虑，一生总是被许多忧虑所缠绕。有的人忧虑多一些、有的人忧虑少一些，但总归活在各种各样的忧虑中。今天虽然我们的物质条件好了，生活的环境也改变了，我们的住宅也宽敞了……，但是我们心里的忧虑有时反而增加了。因此今天我们都要到神的面前来，把我们一切的忧虑、心中的烦恼、头脑里的思虑都卸下来，都放在神的面前，神必顾念我们。可惜今天有许多信徒一点都不会享受这种权利，不会使用这个方法，要知道这是一个极容易极省事的方法，不用我们去老力，去费心，那么我们为什么不使用呢？为什么还仍然活在忧虑中，没有把一切的忧虑和重担都卸给神呢？还有一些人，虽然将忧虑卸给了神，但不久以后，又偷偷的拿了回来。若我们发现自己将已经交给主的忧虑又拿回来，我们就需要再将这忧虑卸给祂。要知道这是我们神的儿女的权利，这是何等的有福！为此，愿我们今天都要把一切的重担、一切的忧虑都卸给神，因为神会帮助我们，会顾念我们，感谢赞美主！阿们！
+
+[腓立比书4:6] 应当一无挂虑，只要凡事藉着祷告、祈求和感谢，将你们所要的告诉神。
+
+百度号：zhandoujnv
+百度密：qq924803598upz【只能电脑登录，手机会提示要验证码】
+【赠品】打开代下系统：http://120.77.53.50:8888
+下载授权码：FGKYWSXWND
+
+学习的过程是非常痛苦的 但是当你学会了之后你会发现这些痛苦是值得的
+fat32转ntfs命令 ：convert *:/fs:ntfs
+
+GunManager 签名密码：abc123
+服务器共享地址192.168.1.133
+中控登录设置 用户名：System 密码：888888
+右键 shift+f10
+
+1.配置project的gradle   classpath 'org.greenrobot:greendao-gradle-plugin:3.2.1'
+2.配置app下的gradle  dependencies｛compile 'org.greenrobot:greendao:3.2.0'
+    compile 'org.greenrobot:greendao-generator:3.2.0'｝apply plugin: 'org.greenrobot.greendao'
+greendao {
+    schemaVersion 1
+    daoPackage 'com.example.greendaotest.gen'
+    targetGenDir 'src/main/java'
+}
+3.创建实体类 设置@Entity注解 4.MakeProject 5.在application中初始化数据库  
+
+1.获取LOcationManager 2.requestLocationUpdates（listener）监听gps位置；
+
+1.新建.aidl文件 2.编译生成对应的.java文件 3.新建service实现aidl中接口的方法 4.在配置文件中对service进行声明 5. 把对应的aidl文件拷贝至新的进程的相同包内 6.编译程序并在新进程中绑定service
+
+no born with blood, but build from it. 没有人天生如此，但我们每天坚持
+
+自由从何而来？从自信来，而自信则是从自律来！先学会克制自己，用严格的日程表控制生活，才能在这种自律中不断磨练出自信。自信是对事情的控制能力，如果你连最基本的时间都做控制不了，还谈什么自信？
+——乔布斯
+
+fresco:fadeDuration="300" // 淡入淡出的持续时间
+fresco:actualImageScaleType="focusCrop"  // 实际图像的缩放类型
+fresco:placeholderImage="@color/wait_color"  //占位图
+fresco:placeholderImageScaleType="fitCenter" //占位图的缩放类型
+fresco:failureImage="@drawable/error" //下载失败显示的图片
+fresco:failureImageScaleType="centerInside" //失败图的缩放类型
+fresco:retryImage="@drawable/retrying"
+//图片加载失败时显示，提示用户点击重新加载，重复加载4次还是没有加载出来的时候才会显示failureImage的图片
+fresco:retryImageScaleType="centerCrop" //重新加载的图片缩放类型
+fresco:progressBarImage="@drawable/progress_bar" //进度条图片
+fresco:progressBarImageScaleType="centerInside"
+fresco:progressBarAutoRotateInterval="1000"
+//进度图自动旋转间隔时间(单位：毫秒ms)
+fresco:backgroundImage="@color/blue"
+//背景图片，这里的背景图片首先被绘制
+fresco:overlayImage="@drawable/watermark"
+// 设置叠加图，在xml中只能设置一张叠加图片，如果需要多张图片的话，需要在java代码中设置哦
+fresco:pressedStateOverlayImage="@color/red"
+// 设置点击状态下的叠加图
+fresco:roundAsCircle="false" //设置为圆形图
+fresco:roundedCornerRadius="1dp" // 圆角半径
+fresco:roundTopLeft="true" // 左上角是否为圆角
+fresco:roundTopRight="false"
+fresco:roundBottomLeft="false"
+fresco:roundBottomRight="true"
+fresco:roundWithOverlayColor="@color/corner_color"
+fresco:roundingBorderWidth="2dp" //边框的宽度
+fresco:roundingBorderColor="@color/border_color" //边框颜色
+
+云端后台ip:120.24.56.223:9000
+
+repositories {
+    maven { url 'http://repo1.maven.org/maven2' }
+}
+
+而这种体验必然会表现到外表自我(Self)生命体上，生命体对建设性情感的感受是快乐，对破坏性情感的感受(Feelings)是痛苦。事实上就是痛苦和快乐这两股力量控制了我们外在自我生命体的一切行为。
+换言之，就是将创造性的价值体现于作品的各个细节，以功能(Function)、形式(Form)、触觉(Feeling)和感受(Feel)这四个设计角度，以自然的材质、简单的设计和考究的创作过程，来放大细节的美感和内在的光辉。
+
+HandlerThread handlerThread =new HandlerThread("MyHandlerTharead");
+        handlerThread.start();
+        Handler handler =new Handler(handlerThread.getLooper());
+        handler.post(runnable);
+
+心里想一个数字，用它加上52.8，再乘以5，然后减去3.9343，再除以0.5，最后再减去心里想的那个数的十倍
+
+端口号过高无法识别的解决方法 先把所有的转换器拔掉
+1，在ＤＯＳ状态下键入set DEVMGR_SHOW_NONPRESENT_DEVICES=1 　
+2，在ＤＯＳ状态下键入devmgmt.msc 　
+3，弹出一个对话框，其实就是设备管理器了，在《查看》菜单里面选定《显示隐藏的设备》，
+再到端口分支里面去看看吧，被隐藏的COM端口都出现了，把所有的COM端口全部都删除.然后插入转换器
+
+  java.lang.UnsatisfiedLinkError: Couldn't load SerialPort from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.example.socketclient-2.apk"],nativeLibraryDirectories=[/data/app-lib/com.example.socketclient-2, /vendor/lib, /system/lib]]]: findLibrary returned null
+
+ANDROID_ID: fb1ad5e54d335761       SerialNumber: AVRZXIF33L
+
+adb kill-server adb -startserver
+
+sudo apt-get install gparted
+
+插入读卡器，使在虚拟机读到内存卡内容
+
+将x4418-android.rar在Windows解压将解压后的文件夹拖到虚拟机指定workspace中
+等待x4418-android文件夹复制到workspace中
+
+cd /home/kzp/workspace/x4418-android
+此命令是进入到workspace文件下的x4418-android文件夹
+
+cat /proc/partitions
+查看
+ 
+fdisk /dev/sdb
+d
+w
+
+gparted /dev/sdb
+
+sudo mkfs.vfat /dev/sdb1
+
+sudo ./s5p4418-sdmmc.sh /dev/sdb ubootpak.bin
+
+
+
+
+<uses-permission android:name="android.permission.MANAGE_USB" />
+
+#adb shell  
+# mount -o remount,rw -t ext4 /dev/block/mtdblock3 /system // 让分区可写。  
+//windows回到命令提示符下  
+>adb push xxx.apk /system/app/  
+<activity ...>
+...
+    <intent-filter>
+        <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+    </intent-filter>
+
+    <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+        android:resource="@xml/device_filter" />
+</activity>
+device_filter.xml：
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <usb-device vendor-id="1234" product-id="5678" />
+</resources>
+
+
+android:sharedUserId="android.uid.system"
+    android:hardwareAccelerated="true"
+
